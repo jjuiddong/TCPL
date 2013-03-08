@@ -11,5 +11,57 @@ int main()
 	CC *p2 = new CC();
 	CB *c1 = static_cast<CB*>(p1);
 	CB *c3 = reinterpret_cast<CB*>(p2);
+
+
+
+	do
+	{
+		if ()
+		{
+			if ()
+			{
+				if()
+				{
+					break;
+
+				}
+			}
+
+		}
+
+		if ()
+		{
+			if ()
+			{
+				if()
+				{
+
+				}
+			}
+
+		}
+
+		if ()
+		{
+			if ()
+			{
+				if()
+				{
+
+				}
+			}
+
+		}
+
+	}
+	while(false);
+
+	~~~~
+
+
+
+
+
+
 	return 0;
 }
