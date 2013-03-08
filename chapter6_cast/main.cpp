@@ -9,58 +9,8 @@ int main()
 {
 	CD *p1 = new CD();
 	CC *p2 = new CC();
-	CB *c1 = static_cast<CB*>(p1);
-	CB *c3 = reinterpret_cast<CB*>(p2);
-
-
-
-	do
-	{
-		if ()
-		{
-			if ()
-			{
-				if()
-				{
-					break;
-
-				}
-			}
-
-		}
-
-		if ()
-		{
-			if ()
-			{
-				if()
-				{
-
-				}
-			}
-
-		}
-
-		if ()
-		{
-			if ()
-			{
-				if()
-				{
-
-				}
-			}
-
-		}
-
-	}
-	while(false);
-
-	~~~~
-
-
-
-
+	//CB *c1 = static_cast<CB*>(p1);
+	//CB *c3 = reinterpret_cast<CB*>(p2);
 
 
 	return 0;
