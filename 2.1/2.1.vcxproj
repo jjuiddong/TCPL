@@ -14,6 +14,7 @@
     <ProjectGuid>{A22C4900-1FB5-41D1-9E2F-0974EB275DD7}</ProjectGuid>
     <RootNamespace>My21</RootNamespace>
     <Keyword>Win32Proj</Keyword>
+    <ProjectName>chapter2.1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
